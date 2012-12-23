@@ -1,0 +1,30 @@
+D C Michael Curtiz, Casablanca, Ingrid Bergman 8 1942 10 10
+D C Michael Curtiz, Casablanca, Humphrey Bogart 8 1942 10 10
+D C Victor Fleming, The Wizard of Oz, Judy Garland 7 1939 10 10
+D F Nora Ephron, Sleepless in Seattle, 1993 10 10
+D D Barry Levinson, Good Morning Vietnam, 1988 10 10
+D D Gus Van Sant, Good Will Hunting, 2000 10 10
+D F Woody Allen, Annie Hall, 1977 10 10
+D F Rob Reiner, When Harry Met Sally, 1989 10 10
+D D Phillippe De Broca, King of Hearts, 1967 10 10
+D D Steven Spielberg, Schindler's List, 1993 10 10
+D F Gore Verbinski, Pirates of the Caribbean, 2003 10 10
+D F Joel Coen, Fargo, 1996 10 10
+D D Jonathan Demme, Silence of the Lambs, 1991 10 10
+D D Clint Eastwood, Unforgiven, 1992 10 10
+D C Hal Ashby, Harold and Maude, Ruth Gordon 3 1971 10 10
+D Z Hal Ashby, Harold and Maude, Bud Cort 3 1971 10 10
+D C George Cukor, Holiday, Katherine Hepburn 9 1938 10 10
+D C George Cukor, Holiday, Cary Grant 9 1938 10 10
+D C Victor Fleming, Gone With the Wind, Vivien Leigh 2 1939 10 10
+D C Victor Fleming, Gone With the Wind, Clark Gable 2 1939 10 10
+D C George Cukor, The Philadelphia Story, Katherine Hepburn 5 1940 10 10
+D C George Cukor, The Philadelphia Story, Cary Grant 5 1940 10 10
+D C John Huston, The Maltese Falcon, Humphrey Bogart 10 1941 10 10
+D Z Frank Capra, It's a Wonderful Life, James Steward 11 1946 10 10
+D C Frank Capra, It's a Wonderful Life, James Steward 11 1946 10 10
+D C Frank Capra, It's a Wonderful Life, Donna Reed 11 1946 10 10
+D C Stanley Kubrick, A Clockwork Orange, Malcolm McDowell 2 1971 10 10
+D F John Landis, National Lampoon's Animal House, 1978 10 10
+D D Nancy Savoca, Dogfight, 1991 10 10
+D F Nora Ephron, You've Got Mail, 1998 10 10

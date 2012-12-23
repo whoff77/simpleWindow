@@ -1,0 +1,1050 @@
+3333 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+2000 D B Sleepless in Seattle Nora Ephron 1993
+2000 D B King of Hearts Phillippe De Broca 1967
+2000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+2000 D B Dogfight Nancy Savoca 1991
+2000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+7777 D B Schindler's List Steven Spielberg 1993
+7777 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+7777 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+4444 D B A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+4444 D R A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+1111 D B A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+1111 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+1111 D B The Maltese Falcon John Huston 1941 10 Humphrey Bogart
+1111 D B Holiday George Cukor 1938 9 Cary Grant
+9000 D B Unforgiven Clint Eastwood 1992
+9000 D B Fargo Joel Coen 1996
+9000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+9000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8888 D B Annie Hall Woody Allen 1977
+8888 D B When Harry Met Sally Rob Reiner 1989
+8888 D B Silence of the Lambs Jonathan Demme 1991
+8888 D B Dogfight Nancy Savoca 1991
+8888 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+1000 D B Good Morning Vietnam Barry Levinson 1988
+1000 D B The Philadelphia Story George Cukor 1940 5 Katherine Hepburn
+1000 D B Good Will Hunting Gus Van Sant 2000
+1000 D B The Philadelphia Story George Cukor 1940 5 Cary Grant
+1000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+9999 D B You've Got Mail Nora Ephron 1998
+8000 D B You've Got Mail Nora Ephron 1998
+8000 D R You've Got Mail Nora Ephron 1998
+8000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8000 D B National Lampoon's Animal House John Landis 1978
+3333 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+2000 D B Sleepless in Seattle Nora Ephron 1993
+2000 D B King of Hearts Phillippe De Broca 1967
+2000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+2000 D B Dogfight Nancy Savoca 1991
+2000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+7777 D B Schindler's List Steven Spielberg 1993
+7777 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+7777 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+4444 D B A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+4444 D R A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+1111 D B A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+1111 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+1111 D B The Maltese Falcon John Huston 1941 10 Humphrey Bogart
+1111 D B Holiday George Cukor 1938 9 Cary Grant
+9000 D B Unforgiven Clint Eastwood 1992
+9000 D B Fargo Joel Coen 1996
+9000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+9000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8888 D B Annie Hall Woody Allen 1977
+8888 D B When Harry Met Sally Rob Reiner 1989
+8888 D B Silence of the Lambs Jonathan Demme 1991
+8888 D B Dogfight Nancy Savoca 1991
+8888 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+1000 D B Good Morning Vietnam Barry Levinson 1988
+1000 D B The Philadelphia Story George Cukor 1940 5 Katherine Hepburn
+1000 D B Good Will Hunting Gus Van Sant 2000
+1000 D B The Philadelphia Story George Cukor 1940 5 Cary Grant
+1000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+9999 D B You've Got Mail Nora Ephron 1998
+8000 D B You've Got Mail Nora Ephron 1998
+8000 D R You've Got Mail Nora Ephron 1998
+8000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8000 D B National Lampoon's Animal House John Landis 1978
+3333 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+2000 D B Sleepless in Seattle Nora Ephron 1993
+2000 D B King of Hearts Phillippe De Broca 1967
+2000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+2000 D B Dogfight Nancy Savoca 1991
+2000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+7777 D B Schindler's List Steven Spielberg 1993
+7777 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+7777 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+4444 D B A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+4444 D R A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+1111 D B A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+1111 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+1111 D B The Maltese Falcon John Huston 1941 10 Humphrey Bogart
+1111 D B Holiday George Cukor 1938 9 Cary Grant
+9000 D B Unforgiven Clint Eastwood 1992
+9000 D B Fargo Joel Coen 1996
+9000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+9000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8888 D B Annie Hall Woody Allen 1977
+8888 D B When Harry Met Sally Rob Reiner 1989
+8888 D B Silence of the Lambs Jonathan Demme 1991
+8888 D B Dogfight Nancy Savoca 1991
+8888 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+1000 D B Good Morning Vietnam Barry Levinson 1988
+1000 D B The Philadelphia Story George Cukor 1940 5 Katherine Hepburn
+1000 D B Good Will Hunting Gus Van Sant 2000
+1000 D B The Philadelphia Story George Cukor 1940 5 Cary Grant
+1000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+9999 D B You've Got Mail Nora Ephron 1998
+8000 D B You've Got Mail Nora Ephron 1998
+8000 D R You've Got Mail Nora Ephron 1998
+8000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8000 D B National Lampoon's Animal House John Landis 1978
+3333 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+2000 D B Sleepless in Seattle Nora Ephron 1993
+2000 D B King of Hearts Phillippe De Broca 1967
+2000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+2000 D B Dogfight Nancy Savoca 1991
+2000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+7777 D B Schindler's List Steven Spielberg 1993
+7777 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+7777 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+4444 D B A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+4444 D R A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+1111 D B A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+1111 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+1111 D B The Maltese Falcon John Huston 1941 10 Humphrey Bogart
+1111 D B Holiday George Cukor 1938 9 Cary Grant
+9000 D B Unforgiven Clint Eastwood 1992
+9000 D B Fargo Joel Coen 1996
+9000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+9000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8888 D B Annie Hall Woody Allen 1977
+8888 D B When Harry Met Sally Rob Reiner 1989
+8888 D B Silence of the Lambs Jonathan Demme 1991
+8888 D B Dogfight Nancy Savoca 1991
+8888 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+1000 D B Good Morning Vietnam Barry Levinson 1988
+1000 D B The Philadelphia Story George Cukor 1940 5 Katherine Hepburn
+1000 D B Good Will Hunting Gus Van Sant 2000
+1000 D B The Philadelphia Story George Cukor 1940 5 Cary Grant
+1000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+9999 D B You've Got Mail Nora Ephron 1998
+8000 D B You've Got Mail Nora Ephron 1998
+8000 D R You've Got Mail Nora Ephron 1998
+8000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8000 D B National Lampoon's Animal House John Landis 1978
+3333 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+2000 D B Sleepless in Seattle Nora Ephron 1993
+2000 D B King of Hearts Phillippe De Broca 1967
+2000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+2000 D B Dogfight Nancy Savoca 1991
+2000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+7777 D B Schindler's List Steven Spielberg 1993
+7777 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+7777 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+4444 D B A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+4444 D R A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+1111 D B A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+1111 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+1111 D B The Maltese Falcon John Huston 1941 10 Humphrey Bogart
+1111 D B Holiday George Cukor 1938 9 Cary Grant
+9000 D B Unforgiven Clint Eastwood 1992
+9000 D B Fargo Joel Coen 1996
+9000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+9000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8888 D B Annie Hall Woody Allen 1977
+8888 D B When Harry Met Sally Rob Reiner 1989
+8888 D B Silence of the Lambs Jonathan Demme 1991
+8888 D B Dogfight Nancy Savoca 1991
+8888 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+1000 D B Good Morning Vietnam Barry Levinson 1988
+1000 D B The Philadelphia Story George Cukor 1940 5 Katherine Hepburn
+1000 D B Good Will Hunting Gus Van Sant 2000
+1000 D B The Philadelphia Story George Cukor 1940 5 Cary Grant
+1000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+9999 D B You've Got Mail Nora Ephron 1998
+8000 D B You've Got Mail Nora Ephron 1998
+8000 D R You've Got Mail Nora Ephron 1998
+8000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8000 D B National Lampoon's Animal House John Landis 1978
+3333 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+2000 D B Sleepless in Seattle Nora Ephron 1993
+2000 D B King of Hearts Phillippe De Broca 1967
+2000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+2000 D B Dogfight Nancy Savoca 1991
+2000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+7777 D B Schindler's List Steven Spielberg 1993
+7777 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+7777 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+4444 D B A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+4444 D R A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+1111 D B A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+1111 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+1111 D B The Maltese Falcon John Huston 1941 10 Humphrey Bogart
+1111 D B Holiday George Cukor 1938 9 Cary Grant
+9000 D B Unforgiven Clint Eastwood 1992
+9000 D B Fargo Joel Coen 1996
+9000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+9000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8888 D B Annie Hall Woody Allen 1977
+8888 D B When Harry Met Sally Rob Reiner 1989
+8888 D B Silence of the Lambs Jonathan Demme 1991
+8888 D B Dogfight Nancy Savoca 1991
+8888 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+1000 D B Good Morning Vietnam Barry Levinson 1988
+1000 D B The Philadelphia Story George Cukor 1940 5 Katherine Hepburn
+1000 D B Good Will Hunting Gus Van Sant 2000
+1000 D B The Philadelphia Story George Cukor 1940 5 Cary Grant
+1000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+9999 D B You've Got Mail Nora Ephron 1998
+8000 D B You've Got Mail Nora Ephron 1998
+8000 D R You've Got Mail Nora Ephron 1998
+8000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8000 D B National Lampoon's Animal House John Landis 1978
+3333 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+2000 D B Sleepless in Seattle Nora Ephron 1993
+2000 D B King of Hearts Phillippe De Broca 1967
+2000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+2000 D B Dogfight Nancy Savoca 1991
+2000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+7777 D B Schindler's List Steven Spielberg 1993
+7777 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+7777 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+4444 D B A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+4444 D R A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+1111 D B A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+1111 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+1111 D B The Maltese Falcon John Huston 1941 10 Humphrey Bogart
+1111 D B Holiday George Cukor 1938 9 Cary Grant
+9000 D B Unforgiven Clint Eastwood 1992
+9000 D B Fargo Joel Coen 1996
+9000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+9000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8888 D B Annie Hall Woody Allen 1977
+8888 D B When Harry Met Sally Rob Reiner 1989
+8888 D B Silence of the Lambs Jonathan Demme 1991
+8888 D B Dogfight Nancy Savoca 1991
+8888 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+1000 D B Good Morning Vietnam Barry Levinson 1988
+1000 D B The Philadelphia Story George Cukor 1940 5 Katherine Hepburn
+1000 D B Good Will Hunting Gus Van Sant 2000
+1000 D B The Philadelphia Story George Cukor 1940 5 Cary Grant
+1000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+9999 D B You've Got Mail Nora Ephron 1998
+8000 D B You've Got Mail Nora Ephron 1998
+8000 D R You've Got Mail Nora Ephron 1998
+8000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8000 D B National Lampoon's Animal House John Landis 1978
+3333 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+2000 D B Sleepless in Seattle Nora Ephron 1993
+2000 D B King of Hearts Phillippe De Broca 1967
+2000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+2000 D B Dogfight Nancy Savoca 1991
+2000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+7777 D B Schindler's List Steven Spielberg 1993
+7777 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+7777 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+4444 D B A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+4444 D R A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+1111 D B A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+1111 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+1111 D B The Maltese Falcon John Huston 1941 10 Humphrey Bogart
+1111 D B Holiday George Cukor 1938 9 Cary Grant
+9000 D B Unforgiven Clint Eastwood 1992
+9000 D B Fargo Joel Coen 1996
+9000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+9000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8888 D B Annie Hall Woody Allen 1977
+8888 D B When Harry Met Sally Rob Reiner 1989
+8888 D B Silence of the Lambs Jonathan Demme 1991
+8888 D B Dogfight Nancy Savoca 1991
+8888 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+1000 D B Good Morning Vietnam Barry Levinson 1988
+1000 D B The Philadelphia Story George Cukor 1940 5 Katherine Hepburn
+1000 D B Good Will Hunting Gus Van Sant 2000
+1000 D B The Philadelphia Story George Cukor 1940 5 Cary Grant
+1000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+9999 D B You've Got Mail Nora Ephron 1998
+8000 D B You've Got Mail Nora Ephron 1998
+8000 D R You've Got Mail Nora Ephron 1998
+8000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8000 D B National Lampoon's Animal House John Landis 1978
+3333 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+2000 D B Sleepless in Seattle Nora Ephron 1993
+2000 D B King of Hearts Phillippe De Broca 1967
+2000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+2000 D B Dogfight Nancy Savoca 1991
+2000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+7777 D B Schindler's List Steven Spielberg 1993
+7777 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+7777 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+4444 D B A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+4444 D R A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+1111 D B A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+1111 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+1111 D B The Maltese Falcon John Huston 1941 10 Humphrey Bogart
+1111 D B Holiday George Cukor 1938 9 Cary Grant
+9000 D B Unforgiven Clint Eastwood 1992
+9000 D B Fargo Joel Coen 1996
+9000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+9000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8888 D B Annie Hall Woody Allen 1977
+8888 D B When Harry Met Sally Rob Reiner 1989
+8888 D B Silence of the Lambs Jonathan Demme 1991
+8888 D B Dogfight Nancy Savoca 1991
+8888 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+1000 D B Good Morning Vietnam Barry Levinson 1988
+1000 D B The Philadelphia Story George Cukor 1940 5 Katherine Hepburn
+1000 D B Good Will Hunting Gus Van Sant 2000
+1000 D B The Philadelphia Story George Cukor 1940 5 Cary Grant
+1000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+9999 D B You've Got Mail Nora Ephron 1998
+8000 D B You've Got Mail Nora Ephron 1998
+8000 D R You've Got Mail Nora Ephron 1998
+8000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8000 D B National Lampoon's Animal House John Landis 1978
+3333 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+2000 D B Sleepless in Seattle Nora Ephron 1993
+2000 D B King of Hearts Phillippe De Broca 1967
+2000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+2000 D B Dogfight Nancy Savoca 1991
+2000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+7777 D B Schindler's List Steven Spielberg 1993
+7777 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+7777 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+4444 D B A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+4444 D R A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+1111 D B A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+1111 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+1111 D B The Maltese Falcon John Huston 1941 10 Humphrey Bogart
+1111 D B Holiday George Cukor 1938 9 Cary Grant
+9000 D B Unforgiven Clint Eastwood 1992
+9000 D B Fargo Joel Coen 1996
+9000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+9000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8888 D B Annie Hall Woody Allen 1977
+8888 D B When Harry Met Sally Rob Reiner 1989
+8888 D B Silence of the Lambs Jonathan Demme 1991
+8888 D B Dogfight Nancy Savoca 1991
+8888 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+1000 D B Good Morning Vietnam Barry Levinson 1988
+1000 D B The Philadelphia Story George Cukor 1940 5 Katherine Hepburn
+1000 D B Good Will Hunting Gus Van Sant 2000
+1000 D B The Philadelphia Story George Cukor 1940 5 Cary Grant
+1000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+9999 D B You've Got Mail Nora Ephron 1998
+8000 D B You've Got Mail Nora Ephron 1998
+8000 D R You've Got Mail Nora Ephron 1998
+8000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8000 D B National Lampoon's Animal House John Landis 1978
+3333 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+2000 D B Sleepless in Seattle Nora Ephron 1993
+2000 D B King of Hearts Phillippe De Broca 1967
+2000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+2000 D B Dogfight Nancy Savoca 1991
+2000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+7777 D B Schindler's List Steven Spielberg 1993
+7777 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+7777 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+4444 D B A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+4444 D R A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+1111 D B A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+1111 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+1111 D B The Maltese Falcon John Huston 1941 10 Humphrey Bogart
+1111 D B Holiday George Cukor 1938 9 Cary Grant
+9000 D B Unforgiven Clint Eastwood 1992
+9000 D B Fargo Joel Coen 1996
+9000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+9000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8888 D B Annie Hall Woody Allen 1977
+8888 D B When Harry Met Sally Rob Reiner 1989
+8888 D B Silence of the Lambs Jonathan Demme 1991
+8888 D B Dogfight Nancy Savoca 1991
+8888 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+1000 D B Good Morning Vietnam Barry Levinson 1988
+1000 D B The Philadelphia Story George Cukor 1940 5 Katherine Hepburn
+1000 D B Good Will Hunting Gus Van Sant 2000
+1000 D B The Philadelphia Story George Cukor 1940 5 Cary Grant
+1000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+9999 D B You've Got Mail Nora Ephron 1998
+8000 D B You've Got Mail Nora Ephron 1998
+8000 D R You've Got Mail Nora Ephron 1998
+8000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8000 D B National Lampoon's Animal House John Landis 1978
+3333 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+2000 D B Sleepless in Seattle Nora Ephron 1993
+2000 D B King of Hearts Phillippe De Broca 1967
+2000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+2000 D B Dogfight Nancy Savoca 1991
+2000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+7777 D B Schindler's List Steven Spielberg 1993
+7777 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+7777 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+4444 D B A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+4444 D R A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+1111 D B A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+1111 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+1111 D B The Maltese Falcon John Huston 1941 10 Humphrey Bogart
+1111 D B Holiday George Cukor 1938 9 Cary Grant
+9000 D B Unforgiven Clint Eastwood 1992
+9000 D B Fargo Joel Coen 1996
+9000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+9000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8888 D B Annie Hall Woody Allen 1977
+8888 D B When Harry Met Sally Rob Reiner 1989
+8888 D B Silence of the Lambs Jonathan Demme 1991
+8888 D B Dogfight Nancy Savoca 1991
+8888 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+1000 D B Good Morning Vietnam Barry Levinson 1988
+1000 D B The Philadelphia Story George Cukor 1940 5 Katherine Hepburn
+1000 D B Good Will Hunting Gus Van Sant 2000
+1000 D B The Philadelphia Story George Cukor 1940 5 Cary Grant
+1000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+9999 D B You've Got Mail Nora Ephron 1998
+8000 D B You've Got Mail Nora Ephron 1998
+8000 D R You've Got Mail Nora Ephron 1998
+8000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8000 D B National Lampoon's Animal House John Landis 1978
+3333 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+2000 D B Sleepless in Seattle Nora Ephron 1993
+2000 D B King of Hearts Phillippe De Broca 1967
+2000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+2000 D B Dogfight Nancy Savoca 1991
+2000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+7777 D B Schindler's List Steven Spielberg 1993
+7777 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+7777 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+4444 D B A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+4444 D R A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+1111 D B A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+1111 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+1111 D B The Maltese Falcon John Huston 1941 10 Humphrey Bogart
+1111 D B Holiday George Cukor 1938 9 Cary Grant
+9000 D B Unforgiven Clint Eastwood 1992
+9000 D B Fargo Joel Coen 1996
+9000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+9000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8888 D B Annie Hall Woody Allen 1977
+8888 D B When Harry Met Sally Rob Reiner 1989
+8888 D B Silence of the Lambs Jonathan Demme 1991
+8888 D B Dogfight Nancy Savoca 1991
+8888 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+1000 D B Good Morning Vietnam Barry Levinson 1988
+1000 D B The Philadelphia Story George Cukor 1940 5 Katherine Hepburn
+1000 D B Good Will Hunting Gus Van Sant 2000
+1000 D B The Philadelphia Story George Cukor 1940 5 Cary Grant
+1000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+9999 D B You've Got Mail Nora Ephron 1998
+8000 D B You've Got Mail Nora Ephron 1998
+8000 D R You've Got Mail Nora Ephron 1998
+8000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8000 D B National Lampoon's Animal House John Landis 1978
+3333 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+2000 D B Sleepless in Seattle Nora Ephron 1993
+2000 D B King of Hearts Phillippe De Broca 1967
+2000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+2000 D B Dogfight Nancy Savoca 1991
+2000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+7777 D B Schindler's List Steven Spielberg 1993
+7777 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+7777 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+4444 D B A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+4444 D R A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+1111 D B A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+1111 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+1111 D B The Maltese Falcon John Huston 1941 10 Humphrey Bogart
+1111 D B Holiday George Cukor 1938 9 Cary Grant
+9000 D B Unforgiven Clint Eastwood 1992
+9000 D B Fargo Joel Coen 1996
+9000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+9000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8888 D B Annie Hall Woody Allen 1977
+8888 D B When Harry Met Sally Rob Reiner 1989
+8888 D B Silence of the Lambs Jonathan Demme 1991
+8888 D B Dogfight Nancy Savoca 1991
+8888 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+1000 D B Good Morning Vietnam Barry Levinson 1988
+1000 D B The Philadelphia Story George Cukor 1940 5 Katherine Hepburn
+1000 D B Good Will Hunting Gus Van Sant 2000
+1000 D B The Philadelphia Story George Cukor 1940 5 Cary Grant
+1000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+9999 D B You've Got Mail Nora Ephron 1998
+8000 D B You've Got Mail Nora Ephron 1998
+8000 D R You've Got Mail Nora Ephron 1998
+8000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8000 D B National Lampoon's Animal House John Landis 1978
+3333 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+2000 D B Sleepless in Seattle Nora Ephron 1993
+2000 D B King of Hearts Phillippe De Broca 1967
+2000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+2000 D B Dogfight Nancy Savoca 1991
+2000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+7777 D B Schindler's List Steven Spielberg 1993
+7777 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+7777 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+4444 D B A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+4444 D R A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+1111 D B A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+1111 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+1111 D B The Maltese Falcon John Huston 1941 10 Humphrey Bogart
+1111 D B Holiday George Cukor 1938 9 Cary Grant
+9000 D B Unforgiven Clint Eastwood 1992
+9000 D B Fargo Joel Coen 1996
+9000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+9000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8888 D B Annie Hall Woody Allen 1977
+8888 D B When Harry Met Sally Rob Reiner 1989
+8888 D B Silence of the Lambs Jonathan Demme 1991
+8888 D B Dogfight Nancy Savoca 1991
+8888 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+1000 D B Good Morning Vietnam Barry Levinson 1988
+1000 D B The Philadelphia Story George Cukor 1940 5 Katherine Hepburn
+1000 D B Good Will Hunting Gus Van Sant 2000
+1000 D B The Philadelphia Story George Cukor 1940 5 Cary Grant
+1000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+9999 D B You've Got Mail Nora Ephron 1998
+8000 D B You've Got Mail Nora Ephron 1998
+8000 D R You've Got Mail Nora Ephron 1998
+8000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8000 D B National Lampoon's Animal House John Landis 1978
+3333 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+2000 D B Sleepless in Seattle Nora Ephron 1993
+2000 D B King of Hearts Phillippe De Broca 1967
+2000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+2000 D B Dogfight Nancy Savoca 1991
+2000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+7777 D B Schindler's List Steven Spielberg 1993
+7777 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+7777 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+4444 D B A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+4444 D R A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+1111 D B A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+1111 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+1111 D B The Maltese Falcon John Huston 1941 10 Humphrey Bogart
+1111 D B Holiday George Cukor 1938 9 Cary Grant
+9000 D B Unforgiven Clint Eastwood 1992
+9000 D B Fargo Joel Coen 1996
+9000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+9000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8888 D B Annie Hall Woody Allen 1977
+8888 D B When Harry Met Sally Rob Reiner 1989
+8888 D B Silence of the Lambs Jonathan Demme 1991
+8888 D B Dogfight Nancy Savoca 1991
+8888 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+1000 D B Good Morning Vietnam Barry Levinson 1988
+1000 D B The Philadelphia Story George Cukor 1940 5 Katherine Hepburn
+1000 D B Good Will Hunting Gus Van Sant 2000
+1000 D B The Philadelphia Story George Cukor 1940 5 Cary Grant
+1000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+9999 D B You've Got Mail Nora Ephron 1998
+8000 D B You've Got Mail Nora Ephron 1998
+8000 D R You've Got Mail Nora Ephron 1998
+8000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8000 D B National Lampoon's Animal House John Landis 1978
+3333 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+2000 D B Sleepless in Seattle Nora Ephron 1993
+2000 D B King of Hearts Phillippe De Broca 1967
+2000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+2000 D B Dogfight Nancy Savoca 1991
+2000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+7777 D B Schindler's List Steven Spielberg 1993
+7777 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+7777 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+4444 D B A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+4444 D R A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+1111 D B A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+1111 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+1111 D B The Maltese Falcon John Huston 1941 10 Humphrey Bogart
+1111 D B Holiday George Cukor 1938 9 Cary Grant
+9000 D B Unforgiven Clint Eastwood 1992
+9000 D B Fargo Joel Coen 1996
+9000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+9000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8888 D B Annie Hall Woody Allen 1977
+8888 D B When Harry Met Sally Rob Reiner 1989
+8888 D B Silence of the Lambs Jonathan Demme 1991
+8888 D B Dogfight Nancy Savoca 1991
+8888 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+1000 D B Good Morning Vietnam Barry Levinson 1988
+1000 D B The Philadelphia Story George Cukor 1940 5 Katherine Hepburn
+1000 D B Good Will Hunting Gus Van Sant 2000
+1000 D B The Philadelphia Story George Cukor 1940 5 Cary Grant
+1000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+9999 D B You've Got Mail Nora Ephron 1998
+8000 D B You've Got Mail Nora Ephron 1998
+8000 D R You've Got Mail Nora Ephron 1998
+8000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8000 D B National Lampoon's Animal House John Landis 1978
+3333 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+2000 D B Sleepless in Seattle Nora Ephron 1993
+2000 D B King of Hearts Phillippe De Broca 1967
+2000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+2000 D B Dogfight Nancy Savoca 1991
+2000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+7777 D B Schindler's List Steven Spielberg 1993
+7777 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+7777 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+4444 D B A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+4444 D R A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+1111 D B A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+1111 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+1111 D B The Maltese Falcon John Huston 1941 10 Humphrey Bogart
+1111 D B Holiday George Cukor 1938 9 Cary Grant
+9000 D B Unforgiven Clint Eastwood 1992
+9000 D B Fargo Joel Coen 1996
+9000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+9000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8888 D B Annie Hall Woody Allen 1977
+8888 D B When Harry Met Sally Rob Reiner 1989
+8888 D B Silence of the Lambs Jonathan Demme 1991
+8888 D B Dogfight Nancy Savoca 1991
+8888 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+1000 D B Good Morning Vietnam Barry Levinson 1988
+1000 D B The Philadelphia Story George Cukor 1940 5 Katherine Hepburn
+1000 D B Good Will Hunting Gus Van Sant 2000
+1000 D B The Philadelphia Story George Cukor 1940 5 Cary Grant
+1000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+9999 D B You've Got Mail Nora Ephron 1998
+8000 D B You've Got Mail Nora Ephron 1998
+8000 D R You've Got Mail Nora Ephron 1998
+8000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8000 D B National Lampoon's Animal House John Landis 1978
+3333 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+2000 D B Sleepless in Seattle Nora Ephron 1993
+2000 D B King of Hearts Phillippe De Broca 1967
+2000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+2000 D B Dogfight Nancy Savoca 1991
+2000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+7777 D B Schindler's List Steven Spielberg 1993
+7777 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+7777 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+4444 D B A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+4444 D R A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+1111 D B A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+1111 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+1111 D B The Maltese Falcon John Huston 1941 10 Humphrey Bogart
+1111 D B Holiday George Cukor 1938 9 Cary Grant
+9000 D B Unforgiven Clint Eastwood 1992
+9000 D B Fargo Joel Coen 1996
+9000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+9000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8888 D B Annie Hall Woody Allen 1977
+8888 D B When Harry Met Sally Rob Reiner 1989
+8888 D B Silence of the Lambs Jonathan Demme 1991
+8888 D B Dogfight Nancy Savoca 1991
+8888 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+1000 D B Good Morning Vietnam Barry Levinson 1988
+1000 D B The Philadelphia Story George Cukor 1940 5 Katherine Hepburn
+1000 D B Good Will Hunting Gus Van Sant 2000
+1000 D B The Philadelphia Story George Cukor 1940 5 Cary Grant
+1000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+9999 D B You've Got Mail Nora Ephron 1998
+8000 D B You've Got Mail Nora Ephron 1998
+8000 D R You've Got Mail Nora Ephron 1998
+8000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8000 D B National Lampoon's Animal House John Landis 1978
+3333 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+2000 D B Sleepless in Seattle Nora Ephron 1993
+2000 D B King of Hearts Phillippe De Broca 1967
+2000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+2000 D B Dogfight Nancy Savoca 1991
+2000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+7777 D B Schindler's List Steven Spielberg 1993
+7777 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+7777 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+4444 D B A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+4444 D R A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+1111 D B A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+1111 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+1111 D B The Maltese Falcon John Huston 1941 10 Humphrey Bogart
+1111 D B Holiday George Cukor 1938 9 Cary Grant
+9000 D B Unforgiven Clint Eastwood 1992
+9000 D B Fargo Joel Coen 1996
+9000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+9000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8888 D B Annie Hall Woody Allen 1977
+8888 D B When Harry Met Sally Rob Reiner 1989
+8888 D B Silence of the Lambs Jonathan Demme 1991
+8888 D B Dogfight Nancy Savoca 1991
+8888 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+1000 D B Good Morning Vietnam Barry Levinson 1988
+1000 D B The Philadelphia Story George Cukor 1940 5 Katherine Hepburn
+1000 D B Good Will Hunting Gus Van Sant 2000
+1000 D B The Philadelphia Story George Cukor 1940 5 Cary Grant
+1000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+9999 D B You've Got Mail Nora Ephron 1998
+8000 D B You've Got Mail Nora Ephron 1998
+8000 D R You've Got Mail Nora Ephron 1998
+8000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8000 D B National Lampoon's Animal House John Landis 1978
+3333 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+2000 D B Sleepless in Seattle Nora Ephron 1993
+2000 D B King of Hearts Phillippe De Broca 1967
+2000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+2000 D B Dogfight Nancy Savoca 1991
+2000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+7777 D B Schindler's List Steven Spielberg 1993
+7777 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+7777 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+4444 D B A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+4444 D R A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+1111 D B A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+1111 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+1111 D B The Maltese Falcon John Huston 1941 10 Humphrey Bogart
+1111 D B Holiday George Cukor 1938 9 Cary Grant
+9000 D B Unforgiven Clint Eastwood 1992
+9000 D B Fargo Joel Coen 1996
+9000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+9000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8888 D B Annie Hall Woody Allen 1977
+8888 D B When Harry Met Sally Rob Reiner 1989
+8888 D B Silence of the Lambs Jonathan Demme 1991
+8888 D B Dogfight Nancy Savoca 1991
+8888 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+1000 D B Good Morning Vietnam Barry Levinson 1988
+1000 D B The Philadelphia Story George Cukor 1940 5 Katherine Hepburn
+1000 D B Good Will Hunting Gus Van Sant 2000
+1000 D B The Philadelphia Story George Cukor 1940 5 Cary Grant
+1000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+9999 D B You've Got Mail Nora Ephron 1998
+8000 D B You've Got Mail Nora Ephron 1998
+8000 D R You've Got Mail Nora Ephron 1998
+8000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8000 D B National Lampoon's Animal House John Landis 1978
+3333 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+2000 D B Sleepless in Seattle Nora Ephron 1993
+2000 D B King of Hearts Phillippe De Broca 1967
+2000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+2000 D B Dogfight Nancy Savoca 1991
+2000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+7777 D B Schindler's List Steven Spielberg 1993
+7777 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+7777 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+4444 D B A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+4444 D R A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+1111 D B A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+1111 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+1111 D B The Maltese Falcon John Huston 1941 10 Humphrey Bogart
+1111 D B Holiday George Cukor 1938 9 Cary Grant
+9000 D B Unforgiven Clint Eastwood 1992
+9000 D B Fargo Joel Coen 1996
+9000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+9000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8888 D B Annie Hall Woody Allen 1977
+8888 D B When Harry Met Sally Rob Reiner 1989
+8888 D B Silence of the Lambs Jonathan Demme 1991
+8888 D B Dogfight Nancy Savoca 1991
+8888 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+1000 D B Good Morning Vietnam Barry Levinson 1988
+1000 D B The Philadelphia Story George Cukor 1940 5 Katherine Hepburn
+1000 D B Good Will Hunting Gus Van Sant 2000
+1000 D B The Philadelphia Story George Cukor 1940 5 Cary Grant
+1000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+9999 D B You've Got Mail Nora Ephron 1998
+8000 D B You've Got Mail Nora Ephron 1998
+8000 D R You've Got Mail Nora Ephron 1998
+8000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8000 D B National Lampoon's Animal House John Landis 1978
+3333 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+2000 D B Sleepless in Seattle Nora Ephron 1993
+2000 D B King of Hearts Phillippe De Broca 1967
+2000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+2000 D B Dogfight Nancy Savoca 1991
+2000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+7777 D B Schindler's List Steven Spielberg 1993
+7777 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+7777 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+4444 D B A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+4444 D R A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+1111 D B A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+1111 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+1111 D B The Maltese Falcon John Huston 1941 10 Humphrey Bogart
+1111 D B Holiday George Cukor 1938 9 Cary Grant
+9000 D B Unforgiven Clint Eastwood 1992
+9000 D B Fargo Joel Coen 1996
+9000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+9000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8888 D B Annie Hall Woody Allen 1977
+8888 D B When Harry Met Sally Rob Reiner 1989
+8888 D B Silence of the Lambs Jonathan Demme 1991
+8888 D B Dogfight Nancy Savoca 1991
+8888 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+1000 D B Good Morning Vietnam Barry Levinson 1988
+1000 D B The Philadelphia Story George Cukor 1940 5 Katherine Hepburn
+1000 D B Good Will Hunting Gus Van Sant 2000
+1000 D B The Philadelphia Story George Cukor 1940 5 Cary Grant
+1000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+9999 D B You've Got Mail Nora Ephron 1998
+8000 D B You've Got Mail Nora Ephron 1998
+8000 D R You've Got Mail Nora Ephron 1998
+8000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8000 D B National Lampoon's Animal House John Landis 1978
+3333 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+2000 D B Sleepless in Seattle Nora Ephron 1993
+2000 D B King of Hearts Phillippe De Broca 1967
+2000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+2000 D B Dogfight Nancy Savoca 1991
+2000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+7777 D B Schindler's List Steven Spielberg 1993
+7777 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+7777 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+4444 D B A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+4444 D R A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+1111 D B A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+1111 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+1111 D B The Maltese Falcon John Huston 1941 10 Humphrey Bogart
+1111 D B Holiday George Cukor 1938 9 Cary Grant
+9000 D B Unforgiven Clint Eastwood 1992
+9000 D B Fargo Joel Coen 1996
+9000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+9000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8888 D B Annie Hall Woody Allen 1977
+8888 D B When Harry Met Sally Rob Reiner 1989
+8888 D B Silence of the Lambs Jonathan Demme 1991
+8888 D B Dogfight Nancy Savoca 1991
+8888 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+1000 D B Good Morning Vietnam Barry Levinson 1988
+1000 D B The Philadelphia Story George Cukor 1940 5 Katherine Hepburn
+1000 D B Good Will Hunting Gus Van Sant 2000
+1000 D B The Philadelphia Story George Cukor 1940 5 Cary Grant
+1000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+9999 D B You've Got Mail Nora Ephron 1998
+8000 D B You've Got Mail Nora Ephron 1998
+8000 D R You've Got Mail Nora Ephron 1998
+8000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8000 D B National Lampoon's Animal House John Landis 1978
+3333 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+2000 D B Sleepless in Seattle Nora Ephron 1993
+2000 D B King of Hearts Phillippe De Broca 1967
+2000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+2000 D B Dogfight Nancy Savoca 1991
+2000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+7777 D B Schindler's List Steven Spielberg 1993
+7777 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+7777 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+4444 D B A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+4444 D R A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+1111 D B A Clockwork Orange Stanley Kubrick 1971 2 Malcolm McDowell
+1111 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+1111 D B The Maltese Falcon John Huston 1941 10 Humphrey Bogart
+1111 D B Holiday George Cukor 1938 9 Cary Grant
+9000 D B Unforgiven Clint Eastwood 1992
+9000 D B Fargo Joel Coen 1996
+9000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+9000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D R Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+5000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8888 D B Annie Hall Woody Allen 1977
+8888 D B When Harry Met Sally Rob Reiner 1989
+8888 D B Silence of the Lambs Jonathan Demme 1991
+8888 D B Dogfight Nancy Savoca 1991
+8888 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+1000 D B Good Morning Vietnam Barry Levinson 1988
+1000 D B The Philadelphia Story George Cukor 1940 5 Katherine Hepburn
+1000 D B Good Will Hunting Gus Van Sant 2000
+1000 D B The Philadelphia Story George Cukor 1940 5 Cary Grant
+1000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+9999 D B You've Got Mail Nora Ephron 1998
+8000 D B You've Got Mail Nora Ephron 1998
+8000 D R You've Got Mail Nora Ephron 1998
+8000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8000 D B Harold and Maude Hal Ashby 1971 3 Ruth Gordon
+8000 D B National Lampoon's Animal House John Landis 1978
